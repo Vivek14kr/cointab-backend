@@ -18,5 +18,5 @@
   picture_medium VARCHAR(255),
   picture_thumbnail VARCHAR(255)
 );
-= npm install
+- npm install
 - node server.js
